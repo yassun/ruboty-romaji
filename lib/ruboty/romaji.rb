@@ -1,0 +1,2 @@
+require "ruboty/romaji/version"
+
