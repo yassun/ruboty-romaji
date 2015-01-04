@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ruboty::Romaji::VERSION
   spec.authors       = ["Taga Yasunori"]
   spec.email         = ["yasukun.taga@gmail.com"]
-  spec.summary       = %q{Write a short summary. Required.}
-  spec.description   = %q{Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{An ruboty handler to convert kana to roman.}
+  spec.homepage      = "https://github.com/yassun/ruboty-romaji"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
